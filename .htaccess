@@ -1,0 +1,10 @@
+# Show custom 404 page for all missing/wrong URLs
+ErrorDocument 404 /malgainternational/404.php
+
+# Enable URL rewriting
+RewriteEngine On
+
+# Remove .php extension from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
