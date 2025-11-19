@@ -85,11 +85,6 @@ Visit our live website at: [https://malgainternational.com](https://malgainterna
 ## 📄 License
 This project is proprietary and confidential. All rights reserved.
 
-## 🤝 Contact Us
-For any inquiries or support, please contact us through our website or at:
-- Email: info@malgainternational.com
-- Phone: [Your Contact Number]
-- Address: [Your Business Address]
 
 ## 🚀 Deployment
 For deployment instructions, please contact the development team for the deployment guide and server requirements.
